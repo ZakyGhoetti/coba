@@ -13,4 +13,3 @@
 11. [*Routing* Statis](p11.md)
 12. [*Routing* Dinamis: RIPv2](p12.md)
 13. [*Routing* Dinamis: OSPF](p13.md)
-14. Ujian Praktikum: *Routing*
